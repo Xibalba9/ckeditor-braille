@@ -21,6 +21,7 @@
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
+        "drupal/gutenberg": "3.0.x-dev",
         "drush/drush": "^12.4"
     },
     "conflict": {
